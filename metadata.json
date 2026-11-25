@@ -1,0 +1,6 @@
+{
+  "name": "Tutor Story",
+  "description": "تعلّم اللغة الإنجليزية بالقصص القصيرة المتدرجة من المستوى A1 إلى B2 مع نطق فوري، بطاقات تعليمية، اختبارات، تكرار متباعد، وتصحيح كتابة بالذكاء الاصطناعي.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
